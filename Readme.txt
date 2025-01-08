@@ -1,19 +1,7 @@
-
-Here’s a detailed README for your “Oh Puleez” event organizing and hall booking website:
-
 Oh Puleez – Your Event, Our Perfection
 Welcome to the "Oh Puleez" website repository! This project aims to provide users with a seamless experience for event planning and hall booking services. Whether you're hosting a wedding, corporate event, or any other occasion, "Oh Puleez" is dedicated to bringing your vision to life.
 
-Table of Contents
-Project Overview
-Technologies Used
-Features
-Installation
-How to Use
-Folder Structure
-Contributing
-License
-Project Overview
+
 The "Oh Puleez" website is an event management platform designed to:
 
 Provide information about the services offered.
@@ -77,23 +65,8 @@ Follow these steps to run the website locally:
 Prerequisites
 A modern web browser (Google Chrome, Firefox, Safari, etc.)
 An internet connection (for external libraries like Bootstrap and Font Awesome)
-Steps
-Clone the Repository
 
-bash
-Copy code
-git clone https://github.com/yourusername/oh-puleez-website.git
-Navigate to the project folder
 
-bash
-Copy code
-cd oh-puleez-website
-Open the index.html file in your browser to see the website in action:
-
-bash
-Copy code
-open index.html
-Alternatively, you can open the file directly in your preferred code editor (e.g., VS Code) and launch it in the browser.
 
 How to Use
 Navigating the Website: Use the header menu to explore different sections like "Home", "Occasions", "Venue", "Gallery", etc.
@@ -107,8 +80,7 @@ Social Media: Follow us on our social media platforms for updates on upcoming ev
 Folder Structure
 Here’s a breakdown of the directory structure for the project:
 
-bash
-Copy code
+
 /oh-puleez-website
 │
 ├── /css
@@ -130,14 +102,5 @@ Copy code
 └── /js
     └── main.js            # Main JavaScript file for animations and interactions
 Contributing
-We welcome contributions to improve the "Oh Puleez" website! To contribute, follow these steps:
+We welcome contributions to improve the "Oh Puleez" website! 
 
-Fork the repository.
-Create a new branch (git checkout -b feature-branch).
-Commit your changes (git commit -am 'Add new feature').
-Push to the branch (git push origin feature-branch).
-Create a new pull request.
-License
-This project is licensed under the MIT License – see the LICENSE file for details.
-
-Feel free to modify the content to better match your needs! Let me know if you'd like any further details or sections added.
